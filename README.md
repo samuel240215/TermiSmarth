@@ -2,11 +2,11 @@
 
 Um assistente de terminal, feito para pessoas que são iniciantes ainda no terminal.
 
-## 🚀 Como usar
+## 🚀 Download do Projeto
 
-Para usar o assistente no seu computador, basta fazer o download do executável clicando no link abaixo:
+Clique no link abaixo para baixar o assistente diretamente no seu computador:
 
-👉 [**Baixar TermiSmarth para Windows (.exe)**](https://github.com)
+👉 [**Baixar TermiSmarth para Windows (.exe)**](https://github.com/samuel240215/TermiSmarth/raw/refs/heads/main/termismarth_app.exe)
 
 ---
-*Nota: Após o download, basta dar um duplo clique no arquivo para abrir o assistente.*
+*Nota: Após baixar, basta dar dois cliques no arquivo executável para iniciar o assistente.*
