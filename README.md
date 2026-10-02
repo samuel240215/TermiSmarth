@@ -1,12 +1,14 @@
 # TermiSmarth
 
 Um assistente de terminal, feito para pessoas que são iniciantes ainda no terminal.
+Nota: Ela eta ainda em desenvolvimento com alguns bugs e etc,contate se perceber algun (samuelnicolas.psilva@gmail.com)
 
-## 🚀 Download do Projeto
+## Como Usar?
 
-Clique no link abaixo para baixar o assistente diretamente no seu computador:
+Você precisara apenas clicar no app 2 vezes e abrira uma janela confirmando que esta funcionando em 2 plano
+ele reconhecera quando estiver em um terminal
 
-👉 [**Baixar TermiSmarth para Windows (.exe)**](https://github.com/samuel240215/TermiSmarth/raw/refs/heads/main/termismarth_app.exe)
+## Downloads
 
----
-*Nota: Após baixar, basta dar dois cliques no arquivo executável para iniciar o assistente.*
+# Termismarth V1
+ 👉 [**Baixar TermiSmarth para Windows (.exe)**](https://github.com/samuel240215/TermiSmarth/raw/refs/heads/main/termismarth_app.exe)
