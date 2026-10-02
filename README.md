@@ -2,7 +2,7 @@
 
 Um assistente de terminal, feito para pessoas que são iniciantes ainda no terminal.
 Nota: Ela eta ainda em desenvolvimento com alguns bugs e etc,contate se perceber algun (samuelnicolas.psilva@gmail.com)
-
+Nota2: O windows pode tentar bloquear app mas eu juro por deus que não e viruz e nada malicioso
 ## Como Usar?
 
 Você precisara apenas clicar no app 2 vezes e abrira uma janela confirmando que esta funcionando em 2 plano
