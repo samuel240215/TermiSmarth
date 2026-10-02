@@ -14,3 +14,5 @@ ele reconhecera quando estiver em um terminal
  👉 [**Baixar TermiSmarth para Windows (.exe)**](https://github.com/samuel240215/TermiSmarth/raw/refs/heads/main/termismarth_app.exe)
 
 👉 [Baixar TermiSmarth para Linux (ubuntu) (.sh)](https://github.com/samuel240215/TermiSmarth/raw/refs/heads/main/termismarth_linux_v2.tar.gz)
+
+Nota3:O termismarth do ubuntu pode conter bugs(pois ele não foi testado)
