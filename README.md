@@ -1,2 +1,2 @@
 # TermiSmarth
-um assistente de terminal
+Um assistente de terminal, feito para pessoas que são iniciantes ainda no terminal 
